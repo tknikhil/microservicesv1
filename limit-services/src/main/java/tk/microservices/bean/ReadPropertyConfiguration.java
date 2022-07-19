@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
  * @author Administrator
  */
 @Component
-@ConfigurationProperties("limit-serivce")
+@ConfigurationProperties("limit-service")
 public class ReadPropertyConfiguration {
     
     private int maximum;
