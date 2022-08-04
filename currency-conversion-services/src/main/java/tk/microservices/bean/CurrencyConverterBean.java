@@ -1,4 +1,4 @@
-package tk.microservices.controller;
+package tk.microservices.bean;
 
 import java.math.BigDecimal;
 
